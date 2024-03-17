@@ -1,5 +1,31 @@
-html, body {
-  height: 100%;
-  width: 100%;
+*{
+  font-family: Calibri;
+
 }
-/* This file should have nothing other than the above 4 lines */
+
+p{
+  color: red;
+}
+
+.font{
+  text-align: left;
+  font-size: 14px;
+  font-family: Arial
+}
+
+img{
+  width: 50%;
+}
+
+.info{
+  display: flex;
+}
+
+#bamboo-grove{
+  length: 80%;4
+}
+
+#mount-fuji{
+  width: 200px;
+  border: 10px double #0b1165;
+}
