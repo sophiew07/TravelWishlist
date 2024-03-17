@@ -14,7 +14,7 @@ p{
 }
 
 img{
-  width: 50%;
+  width: 400px;
 }
 
 .info{
@@ -22,10 +22,10 @@ img{
 }
 
 #bamboo-grove{
-  length: 80%;4
+  height: 50%;
 }
 
-#mount-fuji{
-  width: 200px;
+#traditions{
+  width: 500px;
   border: 10px double #0b1165;
 }
